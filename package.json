@@ -1,0 +1,10 @@
+{
+  "name": "google_maps_api-node_server-websocket",
+  "version": "1.0.0",
+  "description": "google maps elevation api connection with websocket on node server",
+  "main": "main.js",
+  "repository": "empty",
+  "author": "azertypow",
+  "license": "MIT",
+  "private": false
+}
